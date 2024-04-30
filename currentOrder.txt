@@ -1,0 +1,15 @@
+
+************************************
+
+-----------------------------------
+Name: Shayan      Contact: 03341819508
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Sparkling Lime Juice  1  110
+Chicken Burger Patties  1  22
+-----------------------------------
+Grand Total = 132
+
+
+************************************

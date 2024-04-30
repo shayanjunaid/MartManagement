@@ -1,0 +1,94 @@
+
+************************************
+
+-----------------------------------
+Name: a     Contact: 2
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Bread  1  80
+Pound Cake Chocolate  1  500
+-----------------------------------
+Grand Total = 580
+
+
+************************************
+
+************************************
+
+-----------------------------------
+Name: a     Contact: 4
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Samosa  1  300
+Pound Cake Vanilla  1  500
+Pound Cake Chocolate  1  500
+-----------------------------------
+Grand Total = 1300
+
+
+************************************
+
+************************************
+
+-----------------------------------
+Name: s     Contact: 2
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Samosa  1  300
+Pound Cake Vanilla  1  500
+Pound Cake Chocolate  1  500
+Soap  1  20
+Bread  1  80
+-----------------------------------
+Grand Total = 100
+
+
+************************************
+
+************************************
+
+-----------------------------------
+Name: a     Contact: 6
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Samosa  1  300
+Pound Cake Vanilla  1  500
+Sparkling Lime Juice  1  110
+-----------------------------------
+Grand Total = 910
+
+
+************************************
+
+************************************
+
+-----------------------------------
+Name: a     Contact: 5
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Pound Cake Chocolate  1  500
+-----------------------------------
+Grand Total = 500
+
+
+************************************
+
+************************************
+
+-----------------------------------
+Name: Shayan      Contact: 03341819508
+Order completed by: Shayan Junaid
+-----------------------------------
+Item            Quantity   Price   
+Sparkling Lime Juice  1  110
+Chicken Burger Patties  1  22
+-----------------------------------
+Grand Total = 132
+
+
+************************************
